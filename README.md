@@ -13,7 +13,7 @@
 
 - 📫 Como chegar até mim **contatomatheus959@gmail.com**
 
-- 📄 Sobre Minhas experiencias [Em breve site com as mesmas](Em breve site com as mesmas)
+- 📄 Sobre Minhas experiencias (Em breve site com as mesmas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
