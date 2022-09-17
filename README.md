@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusvieira2001&label=Profile%20views&color=0e75b6&style=flat" alt="matheusvieira2001" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **Projeto de conversão de arquivos em Java**
+- 🔭 Atualmente estou trabalhando em **Projeto completo em Java com MySQL**
 
 - 🌱 I’m currently learning **Java, JavaScript and C#**
 
