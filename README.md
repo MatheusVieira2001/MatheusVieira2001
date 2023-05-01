@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MatheusVieira2001](https://github.com/MatheusVieira2001)
 
-- 💬 Pergunte-me sobre **Java, Delphi, C#, Html, Css, JavaScript, NodeJS, Bootstrap**
+- 💬 Pergunte-me sobre **Java, Delphi, C#, Html, Css, JavaScript, NodeJS, Bootstrap, SQL**
 
 - 📫 Como chegar até mim **contatomatheus959@gmail.com**
 
