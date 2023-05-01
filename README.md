@@ -5,11 +5,11 @@
 
 - 🔭 Atualmente estou trabalhando em **Projeto completo em Java com MySQL**
 
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning JavaScript and Java
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MatheusVieira2001](https://github.com/MatheusVieira2001)
 
-- 💬 Pergunte-me sobre **Delphi, C#, Html, Css, JavaScript, NodeJS, Bootstrap**
+- 💬 Pergunte-me sobre **Java, Delphi, C#, Html, Css, JavaScript, NodeJS, Bootstrap**
 
 - 📫 Como chegar até mim **contatomatheus959@gmail.com**
 
