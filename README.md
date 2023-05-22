@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Projeto completo em Java com MySQL**
 
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I am currently studying advanced skills of JavaScript and Java
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MatheusVieira2001](https://github.com/MatheusVieira2001)
 
